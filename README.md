@@ -24,7 +24,7 @@ Para implementação em C, basta compilar pelo terminar o seguinte comando : `gc
 # Contatos
 <a>
 ✉️ <i>lucaslimadeoliveira80@gmail.com</i><br>
-✉️ <i>nalauramoura@gmail.com</i><br>
+✉️ <i>letolsilva22@gmail.com</i><br>
 ✉️ <i>mariana.itapec@gmail.com</i>
 </a>
 
